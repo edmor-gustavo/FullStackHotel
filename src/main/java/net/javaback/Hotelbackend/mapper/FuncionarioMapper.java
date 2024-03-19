@@ -10,15 +10,18 @@ public class FuncionarioMapper {
                 funcionario.getId(),
                 funcionario.getNome(),
                 funcionario.getEmail()
+
         );
 
-    }
-    public static Funcionario mapToFuncionario(FuncionarioDto funcionario){
-        return  new Funcionario(
-                funcionario.getId(),
-                funcionario.getNome(),
-                funcionario.getEmail()
+         }
+
+    public static Funcionario  mapFuncionario(FuncionarioDto funcionarioDto) {
+        return new Funcionario(
+                funcionarioDto.getId(),
+                funcionarioDto.getNome(),
+                funcionarioDto.getEmail()
         );
 
+      }
     }
-}
+
