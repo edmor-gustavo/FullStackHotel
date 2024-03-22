@@ -24,8 +24,7 @@ public class Quarto {
     private String tipo;
 
     @Column(name = "disponivel")
-    private boolean disponivel; // Novo atributo para indicar se o quarto está disponível ou não
-    // Outros atributos do quarto
+    private boolean disponivel;
 
-    // Getters e Setters
+
 }

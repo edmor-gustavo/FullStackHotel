@@ -13,6 +13,5 @@ public class QuartoDto {
     private Long id;
     private String numero;
     private String tipo;
-    private boolean disponivel; // Novo atributo para indicar se o quarto está disponível ou não
-    // Outros atributos do quarto
+    private boolean disponivel;
 }

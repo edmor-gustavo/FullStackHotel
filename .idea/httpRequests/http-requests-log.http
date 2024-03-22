@@ -1,0 +1,663 @@
+GET http://localhost:8080/api/quartos
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=0D97773A1BB286A55C7A319CD2156069
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-15T161533.200.json
+
+###
+
+POST http://localhost:8080/api/quartos
+Content-Type: application/json
+{:
+  "id": 0,
+  "numero": 205
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=0D97773A1BB286A55C7A319CD2156069
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-15T161005.400.html
+
+###
+
+GET http://localhost:8080/api/pacotes
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=0D97773A1BB286A55C7A319CD2156069
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-15T160831.200.json
+
+###
+
+POST http://localhost:8080/api/pacotes
+Content-Type: application/json
+Content-Length: 54
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=0D97773A1BB286A55C7A319CD2156069
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Kalandula",
+  "preco": 45000
+}
+
+<> 2024-03-15T160828.201.json
+
+###
+
+GET http://localhost:8080/api/pacotes
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=0D97773A1BB286A55C7A319CD2156069
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-15T160803.200.json
+
+###
+
+POST http://localhost:8080/api/pacotes
+Content-Type: application/json
+Content-Length: 55
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=0D97773A1BB286A55C7A319CD2156069
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Kalandula",
+  "preco": 45.000
+}
+
+<> 2024-03-15T160743.201.json
+
+###
+
+# @no-cookie-jar
+GET http://localhost:8080/api/funcionario
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-13T144722.200.json
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 67
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=0D97773A1BB286A55C7A319CD2156069
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "eiwfi9uiewf",
+  "email": "qweuirdowqjpdr"
+}
+
+<> 2024-03-13T144700.201.json
+
+###
+
+# @no-cookie-jar
+GET http://localhost:8080/api/funcionario
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+# @no-cookie-jar
+GET http://localhost:8080/api/funcionario
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/api/funcionario
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=0D97773A1BB286A55C7A319CD2156069
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/api/funcionario
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=0D97773A1BB286A55C7A319CD2156069
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/api/funcionario
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Cookie: JSESSIONID=D0F3A567C491376075FF1FAE59ADF0F6
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=D0F3A567C491376075FF1FAE59ADF0F6
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Bernardo",
+  "email": "gufhvjsjavdggubsBHJJI"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=D0F3A567C491376075FF1FAE59ADF0F6
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Bernardo",
+  "email": "gufhvjsjavdggubsBHJJI"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=D8081C5143444C102CBB285B67059A5D
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Bernardo",
+  "email": "gufhvjsjavdggubsBHJJI"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=01B0C57C430E94C94291E30D46731608
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+{:
+"nome": "wegtfwerwtgerg",
+"email": gw3r4tge3tgr4ergtr4"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=01B0C57C430E94C94291E30D46731608
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-27T120251.400.html
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=01B0C57C430E94C94291E30D46731608
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nome": "Joa Lourenço",
+  "email": "prsidente@gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=01B0C57C430E94C94291E30D46731608
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nome": "Joa Lourenço",
+  "email": "prsidente@gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=9D82CA51A0170D48B81784F2D62D4A57
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nome": "Joa Lourenço",
+  "email": "prsidente@gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=9D82CA51A0170D48B81784F2D62D4A57
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nome": "Alberto Mateus",
+  "email": "Alberto0@Gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=9D82CA51A0170D48B81784F2D62D4A57
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nome": "Alberto Mateus",
+  "email": "Alberto0@Gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=9D82CA51A0170D48B81784F2D62D4A57
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nome": "Alberto Mateus",
+  "email": "Alberto0@Gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 74
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=9D82CA51A0170D48B81784F2D62D4A57
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Alberto Mateus",
+  "email": "Alberto0@Gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 74
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=9D82CA51A0170D48B81784F2D62D4A57
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Alberto Mateus",
+  "email": "Alberto0@Gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 74
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=9D82CA51A0170D48B81784F2D62D4A57
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Alberto Mateus",
+  "email": "Alberto0@Gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 74
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Cookie: JSESSIONID=9D82CA51A0170D48B81784F2D62D4A57
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Alberto Mateus",
+  "email": "Alberto0@Gmail.com"
+}
+
+###
+
+POST http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 74
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome": "Alberto Mateus",
+  "email": "Alberto0@Gmail.com"
+}
+
+###
+
+GET http://localhost:8080/Registration
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T162338.404.json
+
+###
+
+POST http://localhost:8080/Registration
+Content-Type: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nome":"Edson Gustavo",
+  "email":"TATA@Gami.com",
+  "password":"1234567"
+}
+
+<> 2024-02-22T162253.404.json
+
+###
+
+POST http://localhost:8080/Registration
+Content-Type: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "nome":"Edson Gustavo",
+  "email":"TATA@Gami.com",
+  "password":"1234567"
+}
+
+<> 2024-02-22T160327.404.json
+
+###
+
+POST http://localhost:8080/Registration
+Content-Type: application/json
+Content-Length: 90
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome":"Edson Gustavo",
+  "email":"TATA@Gami.com",
+  "password":"1234567"
+}
+
+<> 2024-02-22T160251.404.json
+
+###
+
+POST http://localhost:8080/Registration
+Content-Type: application/json
+Content-Length: 90
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome":"Edson Gustavo",
+  "email":"TATA@Gami.com",
+  "password":"1234567"
+}
+
+<> 2024-02-22T155930.404.json
+
+###
+
+POST http://localhost:8080/Registration
+Content-Type: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome":"Edson Gustavo",
+  "email":"TATA@Gami.com",
+  "password":"1234567"
+}
+
+<> 2024-02-22T153805.404.json
+
+###
+
+POST http://localhost:8080/Registration
+Content-Type: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 0,
+  "nome":"Edson Gustavo",
+  "email":"TATA@Gami.com",
+  "password":"1234567"
+}
+
+<> 2024-02-22T153639.404.json
+
+###
+
+POST http://localhost:8080/Registration
+Content-Type: application/json
+{:
+"": 0,
+ "nome": "Edson Gustavo",
+"emai": "edson@gmail",
+"password": "123456789"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T144215.400.html
+
+###
+
+POST http://localhost:8080/Registration
+Content-Type: application/json
+{:
+ "nome": "Edson Gustavo",
+"emai": "edson@gmail",
+"password": "123456789"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T144146.400.html
+
+###
+
+POST http://localhost:8080/Registration
+{:
+ "nome": "Edson Gustavo",
+"emai": "edson@gmail",
+"password": "123456789"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T144048.400.html
+
+###
+
+POST http://localhost:8080/Registration
+{:
+ "nome": "Edson Gustavo",
+"emai": "edson@gmail",
+"password": "123456789"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-22T143954.400.html
+
+###
+
+DELETE http://localhost:8080/api/cliente
+UPDATE gestao_hoteleira.funcionario t:
+SET t.id = 10:
+WHERE t.id = 5;:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-16T163943.400.html
+
+###
+
+DELETE http://localhost:8080/api/cliente/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-16T163750.404.json
+
+###
+
+DELETE http://localhost:8080/api/cliente/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-16T163714.404.json
+
+###
+
+DELETE http://localhost:8080/api/funcionario/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-16T163643.404.json
+
+###
+
+PUT http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-16T163610.405.json
+
+###
+
+GET http://localhost:8080/api/funcionario/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-16T163445.404.json
+
+###
+
+DELETE http://localhost:8080/api/funcionario
+Content-Type: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-16T160055.405.json
+
+###
+
+DELETE http://localhost:8080/api/funcionario
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-16T155741-1.405.json
+
+###
+
+PUT http://localhost:8080/api/funcionario
+Content-Type: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-16T155741.405.json
+
+###
+
+HEAD http://localhost:8080/api/funcionario
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
